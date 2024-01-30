@@ -11,6 +11,10 @@ Luego añade permisos de ejecución `chmod +x paletero.sh` y luego ejecútalo as
 ```bash
 ./paletero.sh imagen_entrada 15
 ```
+
+## Muestra
+Revisa el directorio `showcase/`.
+
 ## Contribuir
 Disfrútalo y te invitamos a participar de este proyecto y mejorarlo en lo que tu consideres, por ejemplo recibir tamaño del archivo de dalida (`width` y `height`) como parámetros opcionales del script.
 
